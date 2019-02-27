@@ -1,0 +1,19 @@
+
+vasentonttu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tonttu
+  rotate: false
+  xy: 1, 1
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 1
+tonttu
+  rotate: false
+  xy: 253, 1
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 2

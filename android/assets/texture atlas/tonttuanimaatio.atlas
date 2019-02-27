@@ -1,0 +1,47 @@
+
+tonttuanimaatio.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tonttu
+  rotate: false
+  xy: 1, 645
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 1
+tonttu
+  rotate: false
+  xy: 1, 323
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 2
+tonttu
+  rotate: false
+  xy: 253, 645
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 3
+tonttu
+  rotate: false
+  xy: 1, 1
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 4
+tonttu
+  rotate: false
+  xy: 253, 323
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 5
+tonttu
+  rotate: false
+  xy: 253, 1
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: 6

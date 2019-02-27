@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.1" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <properties>
+  <property name="blocked" value=""/>
+ </properties>
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <layer name="blocks" width="32" height="32">
+  <properties>
+   <property name="blocked" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztlckNgCAQAP0B3diAXdCYLVieD2swPEgI2QuWI0YmITzEnT2Ibtti0Zbd4c9uw78vOZPik91P8EO5ULG5+Bo/RN6P3v50HtAsRvixOcT+U44W/ffZDuWAcVi9n4Kr77R9c8D8l5vrj1Dux+BrhL8Fkvn/yZ/PUeMPd5hbVP3SO5XGK82N+/5I6tf4A1p/DdL6S2qq9XPnamNr7l/09qo/0qP+Fv6SHmKL+j9o/hkaRroW3+IFUYdriw==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>
